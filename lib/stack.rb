@@ -20,4 +20,8 @@ class Stack
     @stack.length
   end
 
+  def empty?
+    @stack.empty?
+  end
+
 end
